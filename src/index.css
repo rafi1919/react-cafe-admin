@@ -1,0 +1,21 @@
+:root {
+  line-height: 1.5;
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 2rem;
+  background-color: #F2F7F1;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+h5{
+  font-family:Roboto;
+  font-weight: bolder;
+}
+
+.custom-icon{
+  font-size: 3rem;
+}
